@@ -9,7 +9,7 @@ These tweets are stored in zip files with a each single tweet per line in JSON f
 2. Work with multilingual text
 3. Use the map-reduce divide-and-conquer paradigm to create parallel code
 
-Within each /viz folder there is a count of tweets from the hashtags stored in the map.py file. 
+Within each /viz folder there is a count of tweets from the hashtags stored in the map.py file. The viz folder contains the count per country and second contains count per language, separated by hashtag. 
 
 I throughly enjoyed working with large volume of data and using this strategy to analyze these tweets and get insight into COVID-19 at scale. 
 
